@@ -3,7 +3,6 @@
          $a = 0;
 
          $b = 0;
-         //Esta clase es la que utilizo para mandarlo por github
          $html="<table border='1'>";
          
             $html=$html."<tr><th>i</th>";
