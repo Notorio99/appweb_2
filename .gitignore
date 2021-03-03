@@ -1,0 +1,3 @@
+#Ignoramos todos lo ficheros de log
+*.log
+*.txt
