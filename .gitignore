@@ -1,4 +1,4 @@
 #Ignoramos todos lo ficheros de log
 *.log
 *.txt
-*index.php
+*.php
